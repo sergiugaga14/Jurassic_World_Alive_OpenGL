@@ -13,7 +13,7 @@ the skull of a Triceratops and a Pteranodon flying around.
 The map can get very mysterious when the fog effect is activated, its density increases with every press of the F 
 key.
 <p align="center">
-  <img src="https://github.com/sergiugaga14/Jurassic_World_Alive_OpenGL/blob/master/dino_1.png" width="350" title="hover text">
+  <img src="https://github.com/sergiugaga14/Jurassic_World_Alive_OpenGL/blob/master/dino_1.png" width="500" title="screenshot of the application">
  
 </p>
 Even though the oasis seems to be a calm place, a disaster is about to happen, a meteor of great size is about to 

@@ -20,6 +20,7 @@ strike the land and bring an end to the era of dinosaurs.
 <p align="center">
   <img src="https://github.com/sergiugaga14/Jurassic_World_Alive_OpenGL/blob/master/dino3.png" width="700" title="screenshot of the application">
 </p>
+
 # Functionalities
 Right at the beginning the camera moves through the map in a circle around the oasis so that the majority 
 of the objects can be seen.

@@ -18,7 +18,7 @@ key.
 Even though the oasis seems to be a calm place, a disaster is about to happen, a meteor of great size is about to 
 strike the land and bring an end to the era of dinosaurs.
 <p align="center">
-  <img src="https://github.com/sergiugaga14/Jurassic_World_Alive_OpenGL/blob/master/dino_3.png" width="500" title="screenshot of the application">
+  <img src="https://github.com/sergiugaga14/Jurassic_World_Alive_OpenGL/blob/master/dino3.png" width="500" title="screenshot of the application">
 </p>
 # Functionalities
 Right at the beginning the camera moves through the map in a circle around the oasis so that the majority 

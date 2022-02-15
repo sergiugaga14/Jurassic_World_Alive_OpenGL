@@ -1,12 +1,12 @@
 # Jurassic_World_Alive_OpenGL
 
-#Subject
+# Subject
 The subject of the project consists in the photorealistic presentation of 3D objects using OpenGL library. The user 
 directly manipulates by mouse and keyboard inputs the scene of objects and some other functionalities and ways 
 to interact with this scene.
 The scene that I implemented represents an oasis from the lost world of dinosaurs. The map is concentrated around 
 the oasis, where the majority of the dinosaurs are. The rest of the scene is represented by an empty desert. 
-#Scene and object description
+# Scene and object description
 The central point of my map is the blue oasis, which is surrounded by vegetation such as palm trees and some 
 bushes. And all around the body of water you can see dinosaurs such as Brachiosaurus, Stegosaurus, T-rex, Deinonychus, 
 the skull of a Triceratops and a Pteranodon flying around.
@@ -14,11 +14,13 @@ The map can get very mysterious when the fog effect is activated, its density in
 key.
 <p align="center">
   <img src="https://github.com/sergiugaga14/Jurassic_World_Alive_OpenGL/blob/master/dino_1.png" width="500" title="screenshot of the application">
- 
 </p>
 Even though the oasis seems to be a calm place, a disaster is about to happen, a meteor of great size is about to 
 strike the land and bring an end to the era of dinosaurs.
-2. Functionalities
+<p align="center">
+  <img src="https://github.com/sergiugaga14/Jurassic_World_Alive_OpenGL/blob/master/dino_3.png" width="500" title="screenshot of the application">
+</p>
+# Functionalities
 Right at the beginning the camera moves through the map in a circle around the oasis so that the majority 
 of the objects can be seen.
 The camera animation can be stopped and then the user can use the keyboard and the mouse to move 

@@ -10,10 +10,13 @@ the oasis, where the majority of the dinosaurs are. The rest of the scene is rep
 The central point of my map is the blue oasis, which is surrounded by vegetation such as palm trees and some 
 bushes. And all around the body of water you can see dinosaurs such as Brachiosaurus, Stegosaurus, T-rex, Deinonychus, 
 the skull of a Triceratops and a Pteranodon flying around.
+<p align="center">
+  <img src="https://github.com/sergiugaga14/Jurassic_World_Alive_OpenGL/blob/master/dino_1.png" width="700" title="screenshot of the application">
+</p>
 The map can get very mysterious when the fog effect is activated, its density increases with every press of the F 
 key.
 <p align="center">
-  <img src="https://github.com/sergiugaga14/Jurassic_World_Alive_OpenGL/blob/master/dino_1.png" width="700" title="screenshot of the application">
+  <img src="https://github.com/sergiugaga14/Jurassic_World_Alive_OpenGL/blob/master/dino_2.png" width="700" title="screenshot of the application">
 </p>
 Even though the oasis seems to be a calm place, a disaster is about to happen, a meteor of great size is about to 
 strike the land and bring an end to the era of dinosaurs.
